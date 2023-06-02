@@ -7,3 +7,4 @@ The following topics are proposed, subject to change:
 - Deep learning theory
 - Transformers and natural language processing
 - Probabilistic modelling
+- Model explainability and interpretability
